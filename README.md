@@ -3,7 +3,6 @@
 
 ### Data Engineering & AI Student
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=progalex-ux" alt="progalex-ux" /></a> </p>
 
 - 🔭 I'm currently working on **I'm currently working on personal data engineering and machine learning projects**
 
