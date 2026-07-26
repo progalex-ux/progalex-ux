@@ -14,6 +14,14 @@
   <a href="https://github.com/progalex-ux" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="progalex-ux" height="30" width="40" />
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/alejandro-reynoso-flores-5222622a4/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-reynoso-flores" height="30" width="40" />
+  </a>
+  &nbsp;
+  <a href="mailto:alejandroreynosoflores2@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="alejandroreynosoflores2@gmail.com" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
