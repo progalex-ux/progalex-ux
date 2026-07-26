@@ -11,19 +11,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/progalex-ux" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://cdn.simpleicons.org/github" alt="progalex-ux" height="32" width="32" />
+  <a href="https://github.com/progalex-ux" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="progalex-ux" height="30" width="40" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/alejandro-reynoso-flores-5222622a4/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="alejandro-reynoso-flores" height="32" width="32" />
+  <a href="https://www.linkedin.com/in/alejandro-reynoso-flores-5222622a4/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-reynoso-flores" height="30" width="40" />
   </a>
   &nbsp;
-  <a href="mailto:alejandroreynosoflores2@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="alejandroreynosoflores2@gmail.com" height="32" width="32" />
-  </a>
+  
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
