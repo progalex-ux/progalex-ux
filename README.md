@@ -4,9 +4,6 @@
 
 - 🔭 I'm currently working on **personal data engineering and machine learning projects**
 - 🌱 I'm currently learning **Python, SQL, data pipelines, and deep learning fundamentals**
-- 👯 I'm looking to collaborate on **open-source data/AI projects**
-- 🤝 I'm looking for help with **best practices in MLOps and scalable data architectures**
-- 💬 Ask me about **data engineering, machine learning, and Python**
 - 📫 How to reach me: **alejandroreynosoflores2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
